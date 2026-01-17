@@ -11,7 +11,6 @@ I'm currently pursuing my **Bachelor of Technology in Computer Science (Data Sci
   <!-- Languages -->
   <img src="https://img.shields.io/static/v1?message=Java&logo=java&label=&color=007396&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="java logo"  />
   <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="python logo"  />
-  <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="c logo"  />
   <img src="https://img.shields.io/static/v1?message=C++&logo=c%2B%2B&label=&color=00599C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="c++ logo"  />
   <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="javascript logo"  />
   <img src="https://img.shields.io/static/v1?message=SQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="sql logo"  />
